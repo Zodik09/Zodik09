@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adarsh Vishwakarma</h1>
 <h3 align="center">I am a BCA Graduate crafting seamless digital experiences from concept to code. I transform ideas into interactive realities, fueled by an insatiable passion for web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zodik09&label=Profile%20views&color=0e75b6&style=flat" alt="zodik09" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zodik09&label=Profile%20views&color=0e75b6&style=flat" alt="zodik09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zodik09" alt="zodik09" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zodik09" alt="zodik09" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zodik09" target="blank"><img src="https://img.shields.io/twitter/follow/zodik09?logo=twitter&style=for-the-badge" alt="zodik09" /></a> </p>
+<p align="center"> <a href="https://twitter.com/zodik09" target="blank"><img src="https://img.shields.io/twitter/follow/zodik09?logo=twitter&style=for-the-badge" alt="zodik09" /></a> </p>
+
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on **Re-Imagine**
 
@@ -16,10 +18,6 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **adarshvishwakarma09nov2k@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
