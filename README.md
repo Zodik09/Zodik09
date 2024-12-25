@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/zodik09" target="blank"><img src="https://img.shields.io/twitter/follow/zodik09?logo=twitter&style=for-the-badge" alt="zodik09" /></a> </p>
 
-- 🔭 I’m currently working on **Re-Imagine**
+- 🔭 I’m currently following **Dr. Angela Yu's** **[The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zodik09](https://github.com/Zodik09)
+- 👨‍💻 All of my [Projects](https://github.com/Zodik09/BecomingDev).
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **adarshvishwakarma09nov2k@gmail.com**
+- 📫 How to reach me **[Email](adarshvishwakarma09nov2k@gmail.com)**
 
 
 <h3 align="left">Connect with me:</h3>
